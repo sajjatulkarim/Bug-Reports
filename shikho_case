@@ -1,1 +1,39 @@
+Affiliate/Franchise Course Link Not Generating Properly for SSC Animated Course
+As a franchise/affiliate marketer of Shikho, when I try to share the coupon/discount link for the SSC Animated Course, the system redirects me directly to the checkout page instead of generating a shareable affiliate link.
 
+Steps to Reproduce:
+
+Log in as an affiliate/franchise user.
+
+Navigate to the SSC Animated Course page.
+
+Click on the “Share/Copy Link” option.
+
+Instead of copying the link, the page redirects to the checkout process.
+
+Actual Behavior:
+The system skips link generation and sends the user directly to checkout.
+
+Expected Behavior:
+Clicking on “Share/Copy Link” should generate an affiliate link (with coupon/discount included) that can be shared with followers.
+
+Impact:
+
+Affiliate marketers cannot properly promote the SSC Animated Course.
+
+Loss of potential marketing exposure and sales conversion.
+
+jira link:https://sajjatulkarim.atlassian.net/wiki/external/ZDAxNGVhY2EyODg5NDVjMjhhZGJkMzlkNjdiMWVkM2U
+
+
+Creates inconsistency, since links for other courses work properly.
+
+Priority: High
+
+Environment:
+
+Platform: Shikho (Affiliate/Franchise portal)
+
+Browser: [Chrome, Edge]
+
+Device: [Desktop, Mobile]
